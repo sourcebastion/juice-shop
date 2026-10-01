@@ -1,5 +1,6 @@
 # Hall of Fame
 
+
 ## GitHub Contributors
 
 As reported by [`git-stats -a -s '2014'`](https://www.npmjs.com/package/git-stats) analysis of `develop` as of Fri, 05 June
